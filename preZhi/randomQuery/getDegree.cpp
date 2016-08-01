@@ -4,17 +4,16 @@
 #include<vector>
 #include<set>
 using namespace std;
-const int nodePerDeg = 2;
+//const int nodePerDeg = 5;
 int main(int argc,char **argv){
-	if(argc != 3){
-		printf("graphname selectnum\n");
+	if(argc != 4){
+		printf("graphname selectnum nodePerDeg\n");
 		return 0;
 	}
 	char processedGraphPath[300];
 	sprintf(processedGraphPath,"../../dataset/%s/%s.data.fmt",argv[1],argv[1]);
 	char outputfile[300];
 	sprintf(outputfile, "../../dataset/%s/%s.query", argv[1], argv[1]);
-//	sprintf(outputfile, "%s.query", argv[1]);
 	fprintf(stderr,"%s",argv[1]);
 	char originalGraphPath[300];
 	FILE* fp = fopen(processedGraphPath,"rb");
@@ -53,22 +52,12 @@ int main(int argc,char **argv){
 		}	
 		delete []Degree;
 		srand(time(NULL));
-	//	string outputfilename = (string)(argv[1]);
-
-	//	outputfilename = "../../dataset/"+ outputfilename + "/" + outputfilename + ".query";
-	//	printf("%s\n", outputfilename);
 		int MAX_DEG = atoi(argv[2]);
+        int nodePerDeg = atoi(argv[3]);
 		FILE* fout = fopen(outputfile, "w");
-//		if(fout == NULL)
-//			printf("output file not opened\n");
 		int debugCnt = 0;
-        	for(int i = 1; i < tmpmax; i ++) 
-			if(cntDegree[i].size() > 0) printf("deg=%d cnt=%lu\n", i, cntDegree[i].size());
-		for(int i = 10; i <= MAX_DEG; i += 10){
+        for(int i = 10; i <= MAX_DEG; i += 10){
 			unsigned int curSize = cntDegree[i].size();
-		//	double percent = 1.0 * ((double)curSize) / (double) (1.0 * numOfPointWithIndegree);
-		//	double tmpSelect = ((double)totselect) * percent;
-		//	int finalSelect = (int)((double)tmpSelect + 0.5);
 			if(nodePerDeg < curSize){
 				set<int> exist;
 				for(int j = 0; j < nodePerDeg; ++j){
@@ -79,22 +68,16 @@ int main(int argc,char **argv){
 						continue;
 					}
 					exist.insert(point);
-					/*fwrite(&rvertices[point], sizeof(int), 1, fout);*/
 					fprintf(fout, "%d\n", rvertices[point]);
-					printf("query: %d %d\n", debugCnt ++, rvertices[point]);
+					printf("query: %d %d\n", i, rvertices[point]);
 				}
 			}
 			else{
-				for(int j = 0; j < curSize; ++j){
-					int point = cntDegree[i][j];
-					fprintf(fout, "%d\n", rvertices[point]);
-		printf("query: %d %d\n", debugCnt ++, rvertices[point]);
-				}
-				for(int j = curSize;j < nodePerDeg; j++){
-					int point = cntDegree[i][curSize - 1];
-					fprintf(fout, "%d\n", rvertices[point]);
-					printf("query: %d %d\n", debugCnt ++, rvertices[point]);
-				}
+                for(int j=0; j<nodePerDeg; j++){
+                    int point = cntDegree[i][j%curSize];
+                    fprintf(fout, "%d\n", rvertices[point]);
+                    printf("query: %d %d\n", i, rvertices[point]);
+                }
 			}
 		}
 		delete []rvertices;
