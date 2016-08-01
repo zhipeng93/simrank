@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/zhangzhipeng/!svn/ver/7/simrank/preZhi/randomQuery
+END
+getRandomTestPoint
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/zhangzhipeng/!svn/ver/7/simrank/preZhi/randomQuery/getRandomTestPoint
+END
+getDegree
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/zhangzhipeng/!svn/ver/7/simrank/preZhi/randomQuery/getDegree
+END
+getRandomTestPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/zhangzhipeng/!svn/ver/7/simrank/preZhi/randomQuery/getRandomTestPoint.cpp
+END
+getDegree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/zhangzhipeng/!svn/ver/7/simrank/preZhi/randomQuery/getDegree.cpp
+END
