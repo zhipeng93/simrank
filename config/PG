@@ -11,7 +11,7 @@
 -vn 6301 #vertexNum
 -iv 1.0 #initValue
 -rank 20 #SVDRank
--fm true #guaranteeFirstMeeting?(ForMonteCarloMethods)
+-fm false #guaranteeFirstMeeting?(ForMonteCarloMethods)
 -sn 300 #sampleNum
 -sqn 40 #sampleQueryNum
 -ud 0 #useDiskType(srgs:TSF,0,1,2)

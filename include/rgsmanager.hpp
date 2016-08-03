@@ -57,7 +57,6 @@ public:
 		for(iter = timestamp.begin(); iter != timestamp.end(); ++iter){
 			vector<pair<int, int> >* tsv = iter->second;
 			int vid = iter->first; /* one meeting points. */
-            //memset(hasMeet, 0, sizeof(int)*sqn);
 			int idx = 0;
 			int stepLim;
 			queue<int> cand[2];
@@ -65,7 +64,7 @@ public:
             int tsvLen = tsv->size();
 			cand[step].push(vid);
 			while(idx < tsvLen){
-				stepLim = (*tsv)[idx++].first;
+				stepLim = (*tsv)[idx].first;
                 memset(hasMeet, 0, sizeof(int)*sqn);
 				cnt = 0;
 
@@ -100,21 +99,16 @@ public:
 
 						/* enumerate edge here! */
 						rsg[sid]->expand(cur, cand[(step + 1) & 1]);
-//                        int nLen = reversedSampleGraph[sid][cur].size();
-//						for(int i = 0; i < nLen; ++i){
-//							cand[(step + 1) & 1].push(reversedSampleGraph[sid][cur][i]);
-//						}
 					}
 					step++;
 				}while(step <= stepLim);
-//                printf("stepLim=%d step=%d cnt=%d\n", stepLim, step, cnt);
 			}
 		}
-    
+        //compute simrank value with first-meeting or not
         for(iter2 = meetmap.begin();iter2 != meetmap.end(); iter2 ++){
+            int cur = iter2->first;
             memset(hasMeet, 0, sizeof(int)*sqn);
             sort((*(iter2->second)).begin(), (*(iter2->second)).end());
-            int cur = iter2->first;
             vector<pair<int, int> >* mm = iter2->second;
             int mmLen = mm->size();
             int idx = 0;
@@ -128,7 +122,6 @@ public:
                         hasMeet[rid] = 1;
                     }
                     else{
-                        //printf("non-firstmeteting:meet node %d at randomwalk %d\n", cur, rid);
                     }
                 }
                 else{
@@ -142,7 +135,6 @@ public:
 		timer.stop();
 		buildCost = timer.getElapsedTime();
         delete [] hasMeet;
-        //printf("sid=%d sim_comp=%d real_steps=%d comp_cost=%.5lf\n", sid, comp, traverse_cnt, buildCost);
         for(iter2 = meetmap.begin(); iter2 != meetmap.end(); iter2 ++){
             delete iter2->second;
         }

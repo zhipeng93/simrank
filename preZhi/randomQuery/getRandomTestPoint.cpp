@@ -61,7 +61,9 @@ int main(int argc,char **argv){
 //		if(fout == NULL)
 //			printf("output file not opened\n");
 		int debugCnt = 0;
-        for(int i = 0; i <= tmpmax; ++i) if(cntDegree[i].size() > 0) printf("deg=%d cnt=%lu\n", i, cntDegree[i].size());
+        for(int i = 0; i <= tmpmax; ++i) 
+            if(cntDegree[i].size() > 0) 
+                printf("deg=%d cnt=%lu\n", i, cntDegree[i].size());
 		for(int i = 1; i <= tmpmax; ++i){
 			unsigned int curSize = cntDegree[i].size();
 			double percent = 1.0 * ((double)curSize) / (double) (1.0 * numOfPointWithIndegree);
@@ -79,7 +81,7 @@ int main(int argc,char **argv){
 					exist.insert(point);
 					/*fwrite(&rvertices[point], sizeof(int), 1, fout);*/
 					fprintf(fout, "%d\n", rvertices[point]);
-					printf("query: %d %d\n", debugCnt ++, rvertices[point]);
+					printf("query: %d %d\n", i, rvertices[point]);
 				}
 			}
 			else{

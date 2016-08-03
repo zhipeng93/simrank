@@ -55,7 +55,7 @@ class SRGS : public SimRankMethod{
         	sort(res.begin(), res.end());
             results.clear();
         	for(int i = 0; i < k; ++i){
-                res[i].setValue(res[i].getValue() / sampleQueryNum / sampleNum );
+                res[i].setValue(res[i].getValue() / (sampleNum * sampleQueryNum));
         		results.push_back(res[i]);
         	}
         }

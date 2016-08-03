@@ -51,7 +51,6 @@ SRGS::query(int qv, int k){
 				}
 			}
 		}
-
 		if((sid+1) % 100 == 0){
 			printf("%d samples are simulated.\n", sid + 1);
 		}

@@ -79,7 +79,7 @@ class SimRankMethod {
         int sampleNum;
         double decayFactor;
         vector<SimRankValue> results;
-	bool firstRun;//whether first time to call run()
+	    bool firstRun;//whether first time to call run()
 
 };
 

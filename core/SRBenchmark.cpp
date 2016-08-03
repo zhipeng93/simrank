@@ -261,8 +261,8 @@ void do_computation(int qv, int k, SimRankMethod* srm){
         if(vid != -1){
 		fwrite(&rvertices[vid],sizeof(int),1,fout);
 		fwrite(&val,sizeof(double),1,fout);
-        printf("%d %lf\n", rvertices[vid], val);
-
+        // printf("%d %lf\n", rvertices[vid], val);
+        printf("%d %lf\n", vid, val);
         }
         else{
 		int temp_ID = -1;
