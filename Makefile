@@ -18,7 +18,7 @@ SimRank_O= core/SRBenchmark.cpp \
 		   core/OptEffiSVD.cpp\
 		   core/OIPSimRank.cpp\
 		   core/PSRSimRank.cpp\
-
+           core/naiveSR.cpp\
 	
 USER_FLAGS=-Wno-unused-result -Wno-unused-but-set-variable -Wno-sign-compare
 USER_LIBS=

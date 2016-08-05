@@ -17,6 +17,7 @@
 #include "OIPSimRank.h"
 #include "PSRSimRank.h"
 #include "mymkdir.h"
+#include "naiveSR.h"
 using google::dense_hash_map;
 using std::tr1::hash;
 
@@ -30,7 +31,7 @@ const char CuipingLi[10] = "kronsim";//Kronecker simrank, EDBT alg
 const char Yasuhiro[10] = "effisim";// yasuhiro.ICDE alg
 const char YuVLDB15[10] = "PSR";//Yu Weiren 2015VLDB, PSR alg
 const char YuOIP[10] = "OIP";//Yu Weiren ICDE, OIP_DMST alg
-
+const char naiveSR[10] = "naive";
 /* configuration */
 struct eqint {
     bool operator()(const int a, const int b) const {
@@ -192,6 +193,11 @@ SimRankMethod* createSimRankMethod() {
 		srm = new AccurateSimRank(numIter, decayFactor, graph_src, graph_dst, MAX_VERTEX_NUM, 
                 inpath, hasIndex);
 	}
+
+	else if(strcmp(method, naiveSR) == 0){
+		srm = new NaiveSR(numIter, decayFactor, graph_src, graph_dst, MAX_VERTEX_NUM, 
+                inpath, hasIndex);
+    }
 	else if(strcmp(method, SRGSM) == 0){
 		char sgpath[125];
         sprintf(sgpath, "dataset/%s/index/SRGS", inpath);
