@@ -22,3 +22,4 @@ int DEFAULT_TOPK = 50;
 double DEFAULT_RANGE = 0.03;
 int verticesNum = 456;
 int edgeNum = 71959;
+bool isHalf = true;
