@@ -57,12 +57,18 @@ void OIPSimRank::initialize(){
 			//each edge in mst
 			int v=mstSrc[i];
 			int u=mstDst[i];
+            if(graphSrc[u+1] == graphSrc[u])
+                continue;
 			if(mstSrc[i] == maxVertexId){// node maxVertexId represents node '#'
 				//compute parital[u][y] directly
 				for(int y=0;y<maxVertexId;y++)
-					for(int k=graphSrc[u];k<graphSrc[u+1];k++)
-						pSum[u][y] += srvalue[iter &1][y][graphDst[k]];
-				OP(u,iter,pSum[u]);
+					for(int k=graphSrc[u];k<graphSrc[u+1];k++){
+                        int sidx = y < graphDst[k] ? y:graphDst[k];						
+                        int didx = y < graphDst[k] ? graphDst[k]:y;
+                        pSum[u][y] += srvalue[iter &1][sidx][didx];
+
+                    }
+                OP(u,iter,pSum[u]);
 			}
 			else{//given mstSrc[i], compute mstDst[i]
 			//use v to compute u
@@ -72,11 +78,18 @@ void OIPSimRank::initialize(){
 					while(neighbors[i][nid] != 0){
 						int temp = neighbors[i][nid];
 						nid ++;
+                        int sidx, didx;
 						if(temp < 0){
-							pSum[u][y] -= srvalue[iter&1][y][-temp - 1];
+                            temp = -temp - 1;
+                            sidx = y < temp ? y:temp;
+                            didx = y < temp ? temp:y;
+							pSum[u][y] -= srvalue[iter&1][sidx][didx];
 						}
-						else if (temp > 0){
-							pSum[u][y] += srvalue[iter&1][y][temp - 1];
+						else{
+                            temp = temp - 1;
+                            sidx = y < temp? y:temp;
+                            didx = y < temp? temp:y;
+							pSum[u][y] += srvalue[iter&1][sidx][didx];
 						}
 					}
 				}	
@@ -235,12 +248,18 @@ int OIPSimRank::getIntersection(int a,int b){
 }
 void OIPSimRank::OP(int u,int iter,double* pSum){
 	double* outP = new double[maxVertexId];//outP[i] denotes outP[u][i]
+    bool* isComp = new bool[maxVertexId];
+    memset(isComp, 0, sizeof(bool)*maxVertexId);
 	memset(outP,0,sizeof(double)*maxVertexId);
 	for(int i=0;i<maxVertexId;i++){// for each edge in mst
 		int w=mstSrc[i];
-                int z=mstDst[i];
+        int z=mstDst[i];
+        if(graphSrc[z+1] == graphSrc[z])
+            continue;
+        if(u > z && isHalf)
+            continue;
 
-		if(mstSrc[i]==maxVertexId){// edge directly from node '#'
+		if(mstSrc[i]==maxVertexId || !isComp[w]){// edge directly from node '#'
 			for(int k=graphSrc[z];k<graphSrc[z+1];k++)
 				outP[z]+=pSum[graphDst[k]];
 		}
@@ -253,11 +272,12 @@ void OIPSimRank::OP(int u,int iter,double* pSum){
 				if(temp > 0){
 					outP[z] += pSum[temp - 1];
 				}
-				else if(temp < 0){
+				else{
 					 outP[z] -= pSum[-temp - 1];
 				}
 			}
 		}
+        isComp[z] = true;
 		if(u==z)
 			srvalue[1-(iter&1)][u][z]=1;
 		else   

@@ -6,9 +6,9 @@
 
 class NaiveSR : public SimRankMethod{
 public:
-	NaiveSR(int maxsteps, double decayfactor, int* graph_src, int* graph_dst, int mvid, char* graph, bool isinit = false):
+	NaiveSR(int maxsteps, double decayfactor, int* graph_src, int* graph_dst, int mvid, char* graph, bool isinit = false, bool ishalf = true):
 		SimRankMethod(maxsteps, 0, decayfactor),
-		graphSrc(graph_src), graphDst(graph_dst), maxVertexId(mvid), isInit(isinit){
+		graphSrc(graph_src), graphDst(graph_dst), maxVertexId(mvid), isInit(isinit), isHalf(ishalf){
 		strcpy(graphName, graph);
 	    srvalue[0] = new double*[mvid];
 	    srvalue[1] = new double*[mvid];
@@ -52,7 +52,7 @@ private:
 	bool isInit;
 	char graphName[125];
 	double** srvalue[2];
-
+    bool isHalf;
 };
 
 #endif

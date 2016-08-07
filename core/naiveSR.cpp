@@ -44,7 +44,10 @@ void NaiveSR::initialize(){
     while(iter < maxSteps){
         for(int a = 0; a <= max_n; ++a){
             for(int b = 0; b <= max_n; ++b){
-                if(a >= b) continue;
+                if(a == b) 
+                    continue;
+                if(isHalf && a > b)
+                    continue;
                 int size_a = graphSrc[a + 1] - graphSrc[a];
                 int size_b = graphSrc[b + 1] - graphSrc[b];
                 for(int i = graphSrc[b]; i < graphSrc[b+1]; ++i){

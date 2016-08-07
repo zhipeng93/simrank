@@ -228,6 +228,9 @@ bool read_config(){
         else if(strcmp(key, "-T") == 0) {
             numIter = atoi(value);
         }
+        else if(strcmp(key, "-half") == 0) {
+            isHalf = (strcmp(value, "true") == 0 ? true : false);
+        }
         else if(strcmp(key, "-bi") == 0) {
             buildIndex = (strcmp(value, "true") == 0 ? true : false);
         }
