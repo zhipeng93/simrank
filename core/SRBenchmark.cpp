@@ -191,12 +191,12 @@ SimRankMethod* createSimRankMethod() {
 	}
 	else if(strcmp(method, VLDB08) == 0){
 		srm = new AccurateSimRank(numIter, decayFactor, graph_src, graph_dst, MAX_VERTEX_NUM, 
-                inpath, hasIndex);
+                inpath, hasIndex, isHalf);
 	}
 
 	else if(strcmp(method, naiveSR) == 0){
 		srm = new NaiveSR(numIter, decayFactor, graph_src, graph_dst, MAX_VERTEX_NUM, 
-                inpath, hasIndex);
+                inpath, hasIndex, isHalf);
     }
 	else if(strcmp(method, SRGSM) == 0){
 		char sgpath[125];
@@ -230,7 +230,7 @@ SimRankMethod* createSimRankMethod() {
 	}
 	else if(strcmp(method,YuOIP)==0){
 		srm = new OIPSimRank(numIter,decayFactor,graph_src,graph_dst,MAX_VERTEX_NUM,
-            inpath, hasIndex);
+            inpath, hasIndex, isHalf);
 	}
 	else if(strcmp(method,YuVLDB15)==0){
 		srm = new PSRSimRank(numIter,decayFactor,graph_src,graph_dst,orig_graph_src,
@@ -633,6 +633,9 @@ bool read_config(){
         }
         else if(strcmp(key, "-hi") == 0) {
             hasIndex = (strcmp(value, "true") == 0 ? true : false);
+        }
+        else if(strcmp(key, "-half") == 0) {
+            isHalf = (strcmp(value, "true") == 0 ? true : false);
         }
         else if(strcmp(key, "-m") == 0){
             strcpy(method, value);

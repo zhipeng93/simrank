@@ -5,14 +5,14 @@
 -T 10 #IterationNum
 -bi false #onlyBuildIndex?
 -hi false #hasIndex?
--m srgs #methodName
+-m www05 #methodName
 -g ER1000-5 #graphName
 -en 4959 #edgeNum
 -vn 1000 #vertexNum
 -iv 1.0 #initValue
 -rank 50 #SVDRank
 -fm true #guaranteeFirstMeeting?(ForMonteCarloMethods)
--sn 500 #sampleNum
+-sn 1200 #sampleNum
 -sqn 40 #sampleQueryNum
 -ud 0 #useDiskType(srgs:TSF,0,1,2)
 -ts 0 #topsimType(0,1,2)
