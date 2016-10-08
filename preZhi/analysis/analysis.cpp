@@ -28,11 +28,13 @@ bool read_config();
 bool topKWith_1();
 
 int main(int argc, char** argv){
-	if(argc != 2){
-		printf("please specify config file name\n");
+	if(argc != 3){
+		printf("please specify: configFile analysis_k\n");
 		return 0;
 	}
 	sprintf(config, "../../config/%s", argv[1]);
+    analysis_k = atoi(argv[2]);
+    //printf("analysis_k: %d\n", analysis_k);
 	if(!read_config()){
 		printf("%s\n", "error reading config file");
 		return 0;
@@ -42,31 +44,31 @@ int main(int argc, char** argv){
 	
 	sprintf(method_name[0], "accur");
 	sprintf(method_name[1], "OIP");
-	sprintf(method_name[2], "naivePSR");
-	sprintf(method_name[3], "fasterPSR");
+    //sprintf(method_name[2], "naivePSR");
+	sprintf(method_name[2], "fasterPSR");
 	
-	sprintf(method_name[4], "effiEVD");
-	sprintf(method_name[5], "effiSVD");
-	sprintf(method_name[6], "OptEffiSVD");
-	sprintf(method_name[7], "originalKronsim");
-	sprintf(method_name[8], "OptKronSim");
+	//sprintf(method_name[4], "effiEVD");
+	//sprintf(method_name[5], "effiSVD");
+	//sprintf(method_name[6], "OptEffiSVD");
+	//sprintf(method_name[7], "originalKronsim");
+	sprintf(method_name[3], "OptKronSim");
 	
-	sprintf(method_name[9], "topsim");
-	sprintf(method_name[10], "trun_topsim");
-	sprintf(method_name[11], "prio_topsim");
+	sprintf(method_name[4], "topsim");
+	sprintf(method_name[5], "trun_topsim");
+	sprintf(method_name[6], "prio_topsim");
 	
-	sprintf(method_name[12], "srgs");
-	sprintf(method_name[13], "srgs_usDisk");
-	sprintf(method_name[14], "srgs_DiskCompress");
+	sprintf(method_name[7], "srgs");
+	//sprintf(method_name[13], "srgs_usDisk");
+	//sprintf(method_name[14], "srgs_DiskCompress");
 	
-	sprintf(method_name[15], "www05");
-	sprintf(method_name[16], "mod14");
+	sprintf(method_name[8], "www05");
+	sprintf(method_name[9], "mod14");
 	//method_name[0] = "accur";
-	for(int i = 0; i <= 16;++i){
+	for(int i = 0; i <= 9;++i){
 		sprintf(outputpath[i], "%s/%s", category, method_name[i]);
 	}
 
-	printf("%s\n", outputpath[0]);
+	//printf("%s\n", outputpath[0]);
 	if(!readExactFile(outputpath[0])){
 		printf("%s\n", "file cannot be opened.");
 		return 0;
@@ -75,8 +77,8 @@ int main(int argc, char** argv){
 		printf("%s\n", "topK is too large, please make topK smaller in config file or resample some test points.");
 		return 0;
 	}
-	printf("%s %s %s %s\n","method name", "precision", "NDCG", "AvgDiff");
-	for(int fi = 1; fi <= 16; fi++){	
+	//printf("%s %s %s %s %s\n","method name", "analysis_k", "precision", "NDCG", "AvgDiff");
+	for(int fi = 1; fi <= 9; fi++){	
 		if(!readApproFile(outputpath[fi])){
 			printf("%s cannot be opened\n", outputpath[fi]);
 			continue;
@@ -84,7 +86,7 @@ int main(int argc, char** argv){
 		double precision = get_Precision(analysis_k);
 		double ndcg = get_NDCG(analysis_k);
 		double avg_diff = get_AvgDiff(analysis_k);
-		printf("%s %lf %lf %lf\n", method_name[fi], precision, ndcg, avg_diff);
+		printf("%s %d %lf %lf %lf\n", method_name[fi], analysis_k, precision, ndcg, avg_diff);
 	}
 	
 	return 0;
@@ -170,20 +172,39 @@ double get_Precision(int k){
 }
 double get_AvgDiff(int k){
 	double ad = 0.0;
+    int not_hit = 0;
 	for(int qi = 0; qi < query_num; qi++){
+        int count = 0;
+        double avgdiff = 0;
+        for(int ti = 0; ti < k; ti++){
+            int exact_in_appro = findNode(appro_vid[qi], exact_vid[qi][ti], k);
+            if(exact_in_appro != -1){
+                count ++;
+                avgdiff += abs(exact_val[qi][ti]-appro_val[qi][exact_in_appro]);
+                //printf("query: %d; hit: %d\n", qi, ti);
+            }
+        }
+        if(count == 0){
+            not_hit ++;
+            //printf("even not hit one\n");
+        }
+        else
+            ad += avgdiff / count;
+        /*
 		double tmp_exact = 0;
 		for(int ti = 0; ti < k; ti++){
 			tmp_exact += exact_val[qi][ti];
 		}
 		double tmp_appro = 0;;
 		for(int ti = 0; ti < k; ti++){
-			int exact_in_appro = findNode(appro_vid[qi], exact_vid[qi][ti], DEFAULT_TOPK);
+			int exact_in_appro = findNode(appro_vid[qi], exact_vid[qi][ti], analysis_k);
 			if(exact_in_appro != -1) 
 				tmp_appro += appro_val[qi][exact_in_appro];
 		}
 		ad += tmp_exact - tmp_appro;
+        */
 	}
-	return ad / (query_num * k);
+	return ad / (query_num - not_hit);
 }
 double get_NDCG(int k){
 	double nc = 0.0;
@@ -194,7 +215,7 @@ double get_NDCG(int k){
 		}
 		double tmp_appro = 0;
 		for(int ti = 0; ti <k; ti++){
-			int appro_in_exact = findNode(exact_vid[qi], appro_vid[qi][ti], DEFAULT_TOPK);
+			int appro_in_exact = findNode(exact_vid[qi], appro_vid[qi][ti], k);
 			if(appro_in_exact != -1) 
 				tmp_appro += (pow(2, exact_val[qi][appro_in_exact]) -1)/(log(ti + 2)/log(2));
 		}
