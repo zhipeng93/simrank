@@ -3,9 +3,9 @@
 -topk 50 #forTopKQuery
 -range 0.03 #forRangeQuery
 -T 10 #IterationNum
--bi true #onlyBuildIndex?
+-bi false #onlyBuildIndex?
 -hi false #hasIndex?
--m OIP #methodName
+-m www05 #methodName
 -g PG #graphName
 -en 20777 #edgeNum
 -vn 6301 #vertexNum

@@ -12,8 +12,8 @@
 -iv 1.0 #initValue
 -rank 20 #SVDRank
 -fm true #guaranteeFirstMeeting?(ForMonteCarloMethods)
--sn 400 #sampleNum
--sqn 40 #sampleQueryNum
+-sn 300 #sampleNum
+-sqn 25 #sampleQueryNum
 -ud 0 #useDiskType(srgs:TSF,0,1,2)
 -ts 2 #topsimType(0,1,2)
 -es 1 #effisimType(0,1,2)
