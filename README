@@ -1,1 +1,11 @@
-SimRank Code
+This is the SimRank code.
+
+The code adopts Armadillo to do the matrix operations.
+
+The parameters are specified in ./config/
+
+The code is in ./core and ./include.
+
+The tools to analyze and to generate queries, datasets are in ./preZhi.
+
+

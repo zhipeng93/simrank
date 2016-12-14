@@ -189,7 +189,6 @@ void OptEffiSVD::quickSortW(double *a,int s,int e,Mat<double> &M){
 	while(l<r){
 		while(l<r&&a[r]<=x)
 			r--;
-	    //a[l]=a[r];//这里等价于交换了a[l],a[r]的值
 		double temp=a[l];a[l]=a[r];a[r]=temp;
 		M.swap_rows(r,l);
 		M.swap_cols(r,l);
@@ -202,7 +201,6 @@ void OptEffiSVD::quickSortW(double *a,int s,int e,Mat<double> &M){
 		index[revIndex[l]]=l;
 		while(l<r&&a[l]>=x)
 			l++;
-		//a[r]=a[l];//等价交换了a[r]a[l]的值
 		temp=a[r];a[r]=a[l];a[l]=temp;
 		M.swap_rows(r,l);
 		M.swap_cols(r,l);

@@ -118,15 +118,7 @@ void EffiEVD::initialize(){
                 if(norm(eigval(i))<=pow(10,-10))                 
                         cout<<"eigval("<<i<<"): "<<eigval(i)<<endl;
                 } 
-	   // normalise(p);
 	cx_mat inv_p = inv(p);
-    /*
-	for(int row = 0; row < maxVertexId; row++){
-		for(int col = 0;col < maxVertexId; col++){
-			p(row,col) = p(row, col) * sqrt(d[row]);
-		}
-	}
-    */
 	cout << "we are in EffiEVD initializing!" << Rank << endl;
 	cx_mat p_t_p = p.t() * p;
 	cx_mat X = cx_mat(maxVertexId,maxVertexId);
@@ -136,12 +128,6 @@ void EffiEVD::initialize(){
 		{
 		 X(i,j)=cx_double(1-decayFactor, 0.0) * p_t_p(i,j) / (cx_double(1.0,0.0) - cx_double(decayFactor,0) * eigval(i) * eigval(j));
 		}
-		//X is a symmetric matrix
-		/*
-		cx_mat S=inv(p.t())*X*inv(p);
-		cout<<"to certify X:"<<endl;
-		S.print();
-		*/
 	cout<<"we got matrix X"<<endl;
 	cx_mat Q;
 	vec lamda;

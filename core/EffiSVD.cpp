@@ -130,16 +130,8 @@ void EffiSVD::initialize(){
 	vec sigma;
 	cx_mat inv_p = inv(p);//we introduce this to reduce the repetition computation of inv(p)
 	svd(U,sigma,V,inv_p);
-    /*
-	cout<<"normalise end"<<endl;
-	for(int row = 0; row < maxVertexId; row++){
-		for(int col = 0;col < maxVertexId; col++){
-			p(row,col) = p(row, col) * sqrt(d[row]);
-		}
-	}
-    */
-	//get p_t_p
-	cx_mat p_t_p = p.t()*p;
+	
+    cx_mat p_t_p = p.t()*p;
 	cx_mat X=cx_mat(maxVertexId,maxVertexId);
 	//get X
 	for(int i=0;i<maxVertexId;i++)
