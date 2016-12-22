@@ -26,7 +26,7 @@ USER_LIBS=
 # Compiler flags
 CC  = gcc
 CXX = g++
-CFLAGS=$(USER_FLAGS) -O3 -fPIC -Wall -g  -I./include -I ./armadillo/include -llapack -lblas 
+CFLAGS=$(USER_FLAGS) -O3 -fPIC -Wall -g  -I ./include -I ./arma -l lapack -l blas 
 CXXFLAGS=$(CFLAGS)
 LDFLAGS=-lpthread
 
