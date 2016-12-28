@@ -33,55 +33,6 @@ public:
 	 * 2. the number of components.
 	 */
 	void analysis(){
-//		for(int i = 0; i < sampleGraphNum; ++i){
-//			int ccNum = 0;
-//            int cycle = 0;
-//			int niv = 0, maxin = -1;
-//			int* vis = new int[maxVertexId];
-//			int* indeg = new int[maxVertexId];
-//
-//			memset(vis, -1, sizeof(int) * maxVertexId);
-//			memset(indeg, 0, sizeof(int) * maxVertexId);
-//
-//			int id = 0;
-//			for(int vid = 0;  vid < maxVertexId; ++vid){
-//				int cur = vid;
-//				if(vis[cur] == -1){
-////					printf("%dth Sampled Edge: (%d %d)\n", i, vid, sampledGraph[i][cur]);
-//					++id;
-//					vis[cur] = id;
-//					bool isNewCC = true;
-//					while(sampledGraph[i][cur] != -1){
-//						indeg[sampledGraph[i][cur]]++;
-////						printf("%dth Sampled Edge: (%d %d)\n", i, vid, sampledGraph[i][cur]);
-//						if(vis[sampledGraph[i][cur]] == -1){
-//							vis[sampledGraph[i][cur]] = id;
-//						}
-//						else{
-//							if(vis[sampledGraph[i][cur] != id])
-//								isNewCC = false;
-//                            else{
-//                                cycle++;
-//                            }
-//							break;
-//						}
-//						cur = sampledGraph[i][cur];
-//					}
-////					printf("End: %dth Sampled Edge: (%d %d) isNewCC=%d\n", i, vid, sampledGraph[i][cur], isNewCC);
-//					if(isNewCC == true)
-//						ccNum++;
-//				}
-//			}
-//
-//			for(int vid = 0; vid < maxVertexId; ++vid){
-//				if(indeg[vid] == 0)
-//					niv++;
-//				if(maxin < indeg[vid])
-//					maxin = indeg[vid];
-//			}
-//
-//			printf("sid=%d: ccNum=%d, noIncomingV=%d maxin=%d cycle=%d\n", i, ccNum, niv, maxin, cycle);
-//		}
 	}
 
 	/**

@@ -8,4 +8,4 @@ The code is in ./core and ./include.
 
 The tools to analyze and to generate queries, datasets are in ./preZhi.
 
-
+Readers can run 'cmake .' to get the Makefile, then 'make' to get the executables files.

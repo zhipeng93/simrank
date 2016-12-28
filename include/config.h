@@ -2,7 +2,6 @@
 #define _CONFIG_H_
 #include "mytime.h"
 #include "random.h"
-#include "logger.h"
 #include <cstring>
 #include <cstdlib>
 #include <cstdio>

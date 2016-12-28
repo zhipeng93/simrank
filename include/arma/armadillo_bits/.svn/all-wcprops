@@ -1,0 +1,2849 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits
+END
+arma_rng.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_rng.hpp
+END
+fn_prod.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_prod.hpp
+END
+spop_min_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_min_meat.hpp
+END
+fn_diff.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_diff.hpp
+END
+op_reshape_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_reshape_meat.hpp
+END
+op_sqrtmat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_sqrtmat_meat.hpp
+END
+fn_det.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_det.hpp
+END
+spglue_minus_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spglue_minus_bones.hpp
+END
+eop_core_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eop_core_meat.hpp
+END
+fn_eig_pair.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_eig_pair.hpp
+END
+typedef_elem.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/typedef_elem.hpp
+END
+fn_elem.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_elem.hpp
+END
+mtOp_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtOp_bones.hpp
+END
+fn_schur.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_schur.hpp
+END
+op_logmat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_logmat_bones.hpp
+END
+op_cor_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cor_bones.hpp
+END
+arma_str.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_str.hpp
+END
+op_prod_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_prod_meat.hpp
+END
+SpMat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpMat_bones.hpp
+END
+op_dot_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_dot_bones.hpp
+END
+fn_var.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_var.hpp
+END
+unwrap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/unwrap.hpp
+END
+def_superlu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/def_superlu.hpp
+END
+fn_shuffle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_shuffle.hpp
+END
+SizeCube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SizeCube_meat.hpp
+END
+SpRow_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpRow_meat.hpp
+END
+wall_clock_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/wall_clock_meat.hpp
+END
+op_sort_index_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_sort_index_meat.hpp
+END
+SizeMat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SizeMat_meat.hpp
+END
+fn_fft2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_fft2.hpp
+END
+arrayops_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arrayops_bones.hpp
+END
+op_diagvec_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_diagvec_bones.hpp
+END
+diskio_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/diskio_meat.hpp
+END
+op_sum_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_sum_bones.hpp
+END
+arma_rng_cxx98.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_rng_cxx98.hpp
+END
+operator_cube_times.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_cube_times.hpp
+END
+spop_sum_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_sum_bones.hpp
+END
+fn_all.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_all.hpp
+END
+operator_div.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_div.hpp
+END
+op_toeplitz_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_toeplitz_bones.hpp
+END
+running_stat_vec_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/running_stat_vec_bones.hpp
+END
+eglue_core_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eglue_core_bones.hpp
+END
+op_inv_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_inv_meat.hpp
+END
+fn_kmeans.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_kmeans.hpp
+END
+fn_fft.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_fft.hpp
+END
+injector_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/injector_bones.hpp
+END
+spdiagview_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spdiagview_meat.hpp
+END
+memory.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/memory.hpp
+END
+op_sort_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_sort_bones.hpp
+END
+spop_sum_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_sum_meat.hpp
+END
+glue_kron_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_kron_bones.hpp
+END
+op_symmat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_symmat_meat.hpp
+END
+op_strans_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_strans_meat.hpp
+END
+OpCube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/OpCube_meat.hpp
+END
+fn_trimat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_trimat.hpp
+END
+Op_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Op_meat.hpp
+END
+glue_min_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_min_bones.hpp
+END
+eGlue_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eGlue_bones.hpp
+END
+podarray_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/podarray_meat.hpp
+END
+SpOp_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpOp_meat.hpp
+END
+op_dot_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_dot_meat.hpp
+END
+SpMat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpMat_meat.hpp
+END
+op_find_unique_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_find_unique_bones.hpp
+END
+glue_kron_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_kron_meat.hpp
+END
+op_sort_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_sort_meat.hpp
+END
+newarp_SymEigsSolver_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_SymEigsSolver_meat.hpp
+END
+Gen_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Gen_bones.hpp
+END
+arma_ostream_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_ostream_bones.hpp
+END
+op_nonzeros_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_nonzeros_bones.hpp
+END
+fn_eigs_sym.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_eigs_sym.hpp
+END
+fn_svds.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_svds.hpp
+END
+mtGlueCube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtGlueCube_meat.hpp
+END
+glue_times_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_times_meat.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/config.hpp
+END
+SpCol_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpCol_bones.hpp
+END
+eGlueCube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eGlueCube_meat.hpp
+END
+fn_min.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_min.hpp
+END
+traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/traits.hpp
+END
+glue_max_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_max_meat.hpp
+END
+include_atlas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/include_atlas.hpp
+END
+fn_max.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_max.hpp
+END
+fn_dot.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_dot.hpp
+END
+fn_sort.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_sort.hpp
+END
+cond_rel_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/cond_rel_bones.hpp
+END
+fn_normalise.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_normalise.hpp
+END
+fn_eig_gen.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_eig_gen.hpp
+END
+running_stat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/running_stat_meat.hpp
+END
+arma_version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_version.hpp
+END
+SpMat_iterators_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpMat_iterators_meat.hpp
+END
+op_min_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_min_meat.hpp
+END
+eOpCube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eOpCube_meat.hpp
+END
+SpSubview_iterators_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpSubview_iterators_meat.hpp
+END
+op_diagmat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_diagmat_bones.hpp
+END
+glue_cross_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_cross_bones.hpp
+END
+cond_rel_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/cond_rel_meat.hpp
+END
+op_repmat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_repmat_meat.hpp
+END
+op_normalise_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_normalise_meat.hpp
+END
+fn_histc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_histc.hpp
+END
+fn_norm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_norm.hpp
+END
+operator_plus.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_plus.hpp
+END
+op_relational_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_relational_meat.hpp
+END
+wrapper_superlu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/wrapper_superlu.hpp
+END
+fn_nonzeros.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_nonzeros.hpp
+END
+include_superlu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/include_superlu.hpp
+END
+SpBase_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpBase_bones.hpp
+END
+mtOpCube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtOpCube_bones.hpp
+END
+op_mean_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_mean_bones.hpp
+END
+op_find_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_find_bones.hpp
+END
+fn_qr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_qr.hpp
+END
+fn_logmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_logmat.hpp
+END
+op_find_unique_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_find_unique_meat.hpp
+END
+fn_princomp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_princomp.hpp
+END
+auxlib_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/auxlib_bones.hpp
+END
+glue_cross_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_cross_meat.hpp
+END
+op_any_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_any_bones.hpp
+END
+op_repmat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_repmat_bones.hpp
+END
+newarp_SymEigsSolver_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_SymEigsSolver_bones.hpp
+END
+fn_qz.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_qz.hpp
+END
+fn_inv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_inv.hpp
+END
+op_sqrtmat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_sqrtmat_bones.hpp
+END
+config.hpp.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/config.hpp.cmake
+END
+Cube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Cube_meat.hpp
+END
+glue_cor_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_cor_bones.hpp
+END
+newarp_cx_attrib.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_cx_attrib.hpp
+END
+op_any_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_any_meat.hpp
+END
+SpSubview_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpSubview_meat.hpp
+END
+fn_toeplitz.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_toeplitz.hpp
+END
+newarp_DoubleShiftQR_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_DoubleShiftQR_meat.hpp
+END
+fn_accu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_accu.hpp
+END
+op_symmat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_symmat_bones.hpp
+END
+op_strans_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_strans_bones.hpp
+END
+SizeCube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SizeCube_bones.hpp
+END
+op_shift_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_shift_bones.hpp
+END
+op_expmat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_expmat_meat.hpp
+END
+op_trimat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_trimat_meat.hpp
+END
+distr_param.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/distr_param.hpp
+END
+mul_syrk.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mul_syrk.hpp
+END
+fn_cor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_cor.hpp
+END
+newarp_UpperHessenbergQR_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_UpperHessenbergQR_bones.hpp
+END
+op_sum_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_sum_meat.hpp
+END
+fn_cov.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_cov.hpp
+END
+subview_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_bones.hpp
+END
+op_diagmat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_diagmat_meat.hpp
+END
+newarp_UpperHessenbergEigen_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_UpperHessenbergEigen_bones.hpp
+END
+op_diff_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_diff_meat.hpp
+END
+op_normalise_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_normalise_bones.hpp
+END
+fn_misc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_misc.hpp
+END
+fn_clamp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_clamp.hpp
+END
+fn_randi.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_randi.hpp
+END
+Col_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Col_meat.hpp
+END
+op_logmat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_logmat_meat.hpp
+END
+op_cor_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cor_meat.hpp
+END
+mul_gemm_mixed.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mul_gemm_mixed.hpp
+END
+auxlib_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/auxlib_meat.hpp
+END
+fn_trunc_exp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_trunc_exp.hpp
+END
+newarp_UpperHessenbergEigen_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_UpperHessenbergEigen_meat.hpp
+END
+op_hist_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_hist_bones.hpp
+END
+fn_kron.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_kron.hpp
+END
+op_diff_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_diff_bones.hpp
+END
+fn_randu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_randu.hpp
+END
+compiler_setup_post.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/compiler_setup_post.hpp
+END
+operator_schur.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_schur.hpp
+END
+fn_log_det.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_log_det.hpp
+END
+wall_clock_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/wall_clock_bones.hpp
+END
+SpRow_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpRow_bones.hpp
+END
+newarp_SparseGenMatProd_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_SparseGenMatProd_meat.hpp
+END
+typedef_mat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/typedef_mat.hpp
+END
+op_fft_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_fft_bones.hpp
+END
+SpGlue_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpGlue_meat.hpp
+END
+mtSpOp_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtSpOp_bones.hpp
+END
+glue_mixed_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_mixed_bones.hpp
+END
+newarp_SortEigenvalue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_SortEigenvalue.hpp
+END
+def_lapack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/def_lapack.hpp
+END
+op_hist_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_hist_meat.hpp
+END
+fn_regspace.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_regspace.hpp
+END
+newarp_DoubleShiftQR_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_DoubleShiftQR_bones.hpp
+END
+SpSubview_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpSubview_bones.hpp
+END
+op_relational_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_relational_bones.hpp
+END
+subview_elem2_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_elem2_meat.hpp
+END
+BaseCube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/BaseCube_meat.hpp
+END
+Base_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Base_meat.hpp
+END
+op_inv_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_inv_bones.hpp
+END
+op_pinv_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_pinv_meat.hpp
+END
+typedef_mat_fixed.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/typedef_mat_fixed.hpp
+END
+eop_core_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eop_core_bones.hpp
+END
+Glue_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Glue_bones.hpp
+END
+spglue_times_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spglue_times_bones.hpp
+END
+op_vectorise_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_vectorise_bones.hpp
+END
+fn_conv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_conv.hpp
+END
+fn_inplace_strans.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_inplace_strans.hpp
+END
+fn_hist.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_hist.hpp
+END
+subview_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_meat.hpp
+END
+wrapper_lapack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/wrapper_lapack.hpp
+END
+GenSpecialiser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/GenSpecialiser.hpp
+END
+op_flip_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_flip_meat.hpp
+END
+fn_sprandu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_sprandu.hpp
+END
+fn_shift.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_shift.hpp
+END
+span.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/span.hpp
+END
+gmm_misc_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/gmm_misc_meat.hpp
+END
+mul_gemm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mul_gemm.hpp
+END
+op_cx_scalar_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cx_scalar_meat.hpp
+END
+mtGlue_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtGlue_meat.hpp
+END
+fn_lu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_lu.hpp
+END
+fn_inplace_trans.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_inplace_trans.hpp
+END
+arma_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_config.hpp
+END
+arrayops_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arrayops_meat.hpp
+END
+op_diagvec_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_diagvec_meat.hpp
+END
+eGlue_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eGlue_meat.hpp
+END
+spop_mean_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_mean_bones.hpp
+END
+glue_hist_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_hist_bones.hpp
+END
+op_norm_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_norm_meat.hpp
+END
+unwrap_spmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/unwrap_spmat.hpp
+END
+fn_median.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_median.hpp
+END
+fn_resize.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_resize.hpp
+END
+mtOp_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtOp_meat.hpp
+END
+subview_cube_each_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_cube_each_bones.hpp
+END
+spop_var_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_var_meat.hpp
+END
+typedef_elem_check.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/typedef_elem_check.hpp
+END
+GlueCube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/GlueCube_meat.hpp
+END
+SizeMat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SizeMat_bones.hpp
+END
+op_sort_index_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_sort_index_bones.hpp
+END
+op_htrans_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_htrans_meat.hpp
+END
+spglue_join_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spglue_join_bones.hpp
+END
+operator_minus.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_minus.hpp
+END
+diagmat_proxy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/diagmat_proxy.hpp
+END
+fn_flip.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_flip.hpp
+END
+spop_strans_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_strans_meat.hpp
+END
+glue_trapz_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_trapz_meat.hpp
+END
+restrictors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/restrictors.hpp
+END
+op_resize_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_resize_bones.hpp
+END
+diagview_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/diagview_bones.hpp
+END
+SpCol_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpCol_meat.hpp
+END
+fn_vectorise.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_vectorise.hpp
+END
+spop_htrans_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_htrans_bones.hpp
+END
+spglue_plus_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spglue_plus_bones.hpp
+END
+upgrade_val.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/upgrade_val.hpp
+END
+gmm_diag_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/gmm_diag_bones.hpp
+END
+subview_field_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_field_meat.hpp
+END
+subview_elem2_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_elem2_bones.hpp
+END
+newarp_GenEigsSolver_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_GenEigsSolver_meat.hpp
+END
+op_misc_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_misc_meat.hpp
+END
+op_clamp_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_clamp_meat.hpp
+END
+eop_aux.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eop_aux.hpp
+END
+running_stat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/running_stat_bones.hpp
+END
+strip.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/strip.hpp
+END
+spop_misc_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_misc_meat.hpp
+END
+newarp_EigsSelect.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_EigsSelect.hpp
+END
+wrapper_atlas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/wrapper_atlas.hpp
+END
+def_hdf5.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/def_hdf5.hpp
+END
+glue_min_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_min_meat.hpp
+END
+fn_chol.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_chol.hpp
+END
+fn_trans.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_trans.hpp
+END
+op_cov_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cov_bones.hpp
+END
+fn_as_scalar.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_as_scalar.hpp
+END
+fn_repmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_repmat.hpp
+END
+op_cumsum_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cumsum_meat.hpp
+END
+newarp_TridiagEigen_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_TridiagEigen_meat.hpp
+END
+op_flip_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_flip_bones.hpp
+END
+glue_join_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_join_meat.hpp
+END
+fn_trace.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_trace.hpp
+END
+mtGlueCube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtGlueCube_bones.hpp
+END
+fn_approx_equal.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_approx_equal.hpp
+END
+SpProxy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpProxy.hpp
+END
+fn_zeros.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_zeros.hpp
+END
+fn_randn.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_randn.hpp
+END
+glue_mixed_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_mixed_meat.hpp
+END
+mtSpOp_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtSpOp_meat.hpp
+END
+fn_diagmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_diagmat.hpp
+END
+glue_hist_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_hist_meat.hpp
+END
+fn_spones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_spones.hpp
+END
+op_cov_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cov_meat.hpp
+END
+fn_cumsum.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_cumsum.hpp
+END
+operator_times.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_times.hpp
+END
+SpValProxy_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpValProxy_meat.hpp
+END
+BaseCube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/BaseCube_bones.hpp
+END
+OpCube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/OpCube_bones.hpp
+END
+fn_eigs_gen.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_eigs_gen.hpp
+END
+xtrans_mat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/xtrans_mat_bones.hpp
+END
+fn_speye.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_speye.hpp
+END
+subview_cube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_cube_bones.hpp
+END
+field_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/field_bones.hpp
+END
+fn_eps.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_eps.hpp
+END
+gmm_diag_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/gmm_diag_meat.hpp
+END
+unwrap_cube.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/unwrap_cube.hpp
+END
+subview_field_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_field_bones.hpp
+END
+op_cumprod_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cumprod_meat.hpp
+END
+newarp_SparseGenMatProd_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_SparseGenMatProd_bones.hpp
+END
+def_atlas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/def_atlas.hpp
+END
+glue_times_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_times_bones.hpp
+END
+injector_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/injector_meat.hpp
+END
+newarp_UpperHessenbergQR_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_UpperHessenbergQR_meat.hpp
+END
+fn_sprandn.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_sprandn.hpp
+END
+fn_trig.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_trig.hpp
+END
+op_unique_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_unique_bones.hpp
+END
+glue_toeplitz_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_toeplitz_meat.hpp
+END
+spop_max_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_max_meat.hpp
+END
+op_var_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_var_meat.hpp
+END
+newarp_TridiagEigen_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_TridiagEigen_bones.hpp
+END
+op_cumsum_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cumsum_bones.hpp
+END
+fn_size.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_size.hpp
+END
+op_norm_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_norm_bones.hpp
+END
+op_shuffle_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_shuffle_meat.hpp
+END
+op_pinv_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_pinv_bones.hpp
+END
+Base_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Base_bones.hpp
+END
+hdf5_misc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/hdf5_misc.hpp
+END
+newarp_DenseGenMatProd_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_DenseGenMatProd_meat.hpp
+END
+op_median_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_median_meat.hpp
+END
+Op_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Op_bones.hpp
+END
+glue_cor_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_cor_meat.hpp
+END
+Mat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Mat_bones.hpp
+END
+glue_conv_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_conv_bones.hpp
+END
+op_vectorise_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_vectorise_meat.hpp
+END
+subview_cube_each_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_cube_each_meat.hpp
+END
+op_max_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_max_bones.hpp
+END
+mul_gemv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mul_gemv.hpp
+END
+glue_toeplitz_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_toeplitz_bones.hpp
+END
+op_var_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_var_bones.hpp
+END
+op_all_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_all_meat.hpp
+END
+glue_relational_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_relational_meat.hpp
+END
+spop_max_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_max_bones.hpp
+END
+SpValProxy_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpValProxy_bones.hpp
+END
+GenCube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/GenCube_meat.hpp
+END
+newarp_GenEigsSolver_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_GenEigsSolver_bones.hpp
+END
+def_arpack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/def_arpack.hpp
+END
+spop_var_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_var_bones.hpp
+END
+op_expmat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_expmat_bones.hpp
+END
+op_mean_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_mean_meat.hpp
+END
+op_find_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_find_meat.hpp
+END
+mtOpCube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtOpCube_meat.hpp
+END
+promote_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/promote_type.hpp
+END
+fn_ones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_ones.hpp
+END
+spop_mean_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_mean_meat.hpp
+END
+fn_unique.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_unique.hpp
+END
+op_all_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_all_bones.hpp
+END
+glue_relational_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_relational_bones.hpp
+END
+arma_cmath.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_cmath.hpp
+END
+op_cumprod_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cumprod_bones.hpp
+END
+op_stddev_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_stddev_meat.hpp
+END
+wrapper_arpack.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/wrapper_arpack.hpp
+END
+spglue_times_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spglue_times_meat.hpp
+END
+spglue_plus_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spglue_plus_meat.hpp
+END
+op_chol_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_chol_bones.hpp
+END
+op_unique_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_unique_meat.hpp
+END
+constants_old.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/constants_old.hpp
+END
+fn_stddev.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_stddev.hpp
+END
+fn_sqrtmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_sqrtmat.hpp
+END
+op_misc_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_misc_bones.hpp
+END
+fn_eig_sym.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_eig_sym.hpp
+END
+spglue_minus_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spglue_minus_meat.hpp
+END
+fn_expmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_expmat.hpp
+END
+wrapper_blas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/wrapper_blas.hpp
+END
+gmm_misc_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/gmm_misc_bones.hpp
+END
+SpBase_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpBase_meat.hpp
+END
+include_hdf5.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/include_hdf5.hpp
+END
+fn_find_unique.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_find_unique.hpp
+END
+glue_cov_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_cov_bones.hpp
+END
+field_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/field_meat.hpp
+END
+subview_each_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_each_bones.hpp
+END
+sp_auxlib_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/sp_auxlib_meat.hpp
+END
+fn_sort_index.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_sort_index.hpp
+END
+Col_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Col_bones.hpp
+END
+fn_numel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_numel.hpp
+END
+Cube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Cube_bones.hpp
+END
+eOp_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eOp_bones.hpp
+END
+arma_rng_cxx11.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_rng_cxx11.hpp
+END
+xvec_htrans_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/xvec_htrans_bones.hpp
+END
+sp_auxlib_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/sp_auxlib_bones.hpp
+END
+op_stddev_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_stddev_bones.hpp
+END
+subview_elem1_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_elem1_meat.hpp
+END
+fn_randg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_randg.hpp
+END
+fn_syl_lyap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_syl_lyap.hpp
+END
+op_clamp_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_clamp_bones.hpp
+END
+GlueCube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/GlueCube_bones.hpp
+END
+op_nonzeros_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_nonzeros_meat.hpp
+END
+op_trimat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_trimat_bones.hpp
+END
+arma_static_check.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_static_check.hpp
+END
+eGlueCube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eGlueCube_bones.hpp
+END
+subview_cube_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_cube_meat.hpp
+END
+op_prod_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_prod_bones.hpp
+END
+op_max_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_max_meat.hpp
+END
+compiler_setup.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/compiler_setup.hpp
+END
+glue_solve_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_solve_bones.hpp
+END
+operator_cube_div.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_cube_div.hpp
+END
+operator_cube_plus.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_cube_plus.hpp
+END
+fn_strans.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_strans.hpp
+END
+fn_symmat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_symmat.hpp
+END
+operator_cube_schur.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_cube_schur.hpp
+END
+GenCube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/GenCube_bones.hpp
+END
+fn_pinv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_pinv.hpp
+END
+spop_strans_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_strans_bones.hpp
+END
+operator_cube_relational.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_cube_relational.hpp
+END
+fn_n_unique.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_n_unique.hpp
+END
+spop_htrans_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_htrans_meat.hpp
+END
+fn_cond.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_cond.hpp
+END
+podarray_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/podarray_bones.hpp
+END
+SpOp_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpOp_bones.hpp
+END
+diskio_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/diskio_bones.hpp
+END
+subview_each_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_each_meat.hpp
+END
+fn_solve.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_solve.hpp
+END
+fn_cross.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_cross.hpp
+END
+spop_diagmat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_diagmat_meat.hpp
+END
+Row_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Row_meat.hpp
+END
+fn_trunc_log.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_trunc_log.hpp
+END
+eglue_core_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eglue_core_meat.hpp
+END
+arma_ostream_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_ostream_meat.hpp
+END
+fn_join.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_join.hpp
+END
+mtGlue_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mtGlue_bones.hpp
+END
+op_cx_scalar_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_cx_scalar_bones.hpp
+END
+op_fft_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_fft_meat.hpp
+END
+debug.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/debug.hpp
+END
+glue_max_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_max_bones.hpp
+END
+spdiagview_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spdiagview_bones.hpp
+END
+op_chol_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_chol_meat.hpp
+END
+xvec_htrans_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/xvec_htrans_meat.hpp
+END
+fn_conv_to.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_conv_to.hpp
+END
+glue_histc_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_histc_meat.hpp
+END
+subview_elem1_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/subview_elem1_bones.hpp
+END
+glue_join_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_join_bones.hpp
+END
+glue_trapz_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_trapz_bones.hpp
+END
+fn_find.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_find.hpp
+END
+fn_mean.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_mean.hpp
+END
+op_resize_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_resize_meat.hpp
+END
+fn_eye.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_eye.hpp
+END
+diagview_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/diagview_meat.hpp
+END
+fn_interp1.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_interp1.hpp
+END
+mul_herk.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/mul_herk.hpp
+END
+op_min_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_min_bones.hpp
+END
+glue_cov_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_cov_meat.hpp
+END
+glue_solve_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_solve_meat.hpp
+END
+spop_min_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_min_bones.hpp
+END
+op_princomp_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_princomp_bones.hpp
+END
+glue_histc_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_histc_bones.hpp
+END
+running_stat_vec_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/running_stat_vec_meat.hpp
+END
+fn_rank.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_rank.hpp
+END
+op_toeplitz_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_toeplitz_meat.hpp
+END
+fn_spsolve.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_spsolve.hpp
+END
+Gen_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Gen_meat.hpp
+END
+op_shuffle_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_shuffle_bones.hpp
+END
+Proxy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Proxy.hpp
+END
+op_shift_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_shift_meat.hpp
+END
+spop_misc_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_misc_bones.hpp
+END
+op_htrans_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_htrans_bones.hpp
+END
+fn_trapz.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_trapz.hpp
+END
+spglue_join_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spglue_join_meat.hpp
+END
+SpGlue_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/SpGlue_bones.hpp
+END
+fn_diagvec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_diagvec.hpp
+END
+xtrans_mat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/xtrans_mat_meat.hpp
+END
+Mat_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Mat_meat.hpp
+END
+glue_conv_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/glue_conv_meat.hpp
+END
+fn_sum.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_sum.hpp
+END
+eOp_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eOp_meat.hpp
+END
+op_dotext_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_dotext_bones.hpp
+END
+op_princomp_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_princomp_meat.hpp
+END
+fn_cumprod.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_cumprod.hpp
+END
+spop_diagmat_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/spop_diagmat_bones.hpp
+END
+Row_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Row_bones.hpp
+END
+def_blas.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/def_blas.hpp
+END
+access.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/access.hpp
+END
+Glue_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/Glue_meat.hpp
+END
+fft_engine.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fft_engine.hpp
+END
+arma_forward.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/arma_forward.hpp
+END
+operator_cube_minus.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_cube_minus.hpp
+END
+operator_relational.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_relational.hpp
+END
+eOpCube_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/eOpCube_bones.hpp
+END
+fn_reshape.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_reshape.hpp
+END
+fn_any.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_any.hpp
+END
+op_dotext_meat.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_dotext_meat.hpp
+END
+op_reshape_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_reshape_bones.hpp
+END
+constants.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/constants.hpp
+END
+fn_svd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/fn_svd.hpp
+END
+ProxyCube.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/ProxyCube.hpp
+END
+op_median_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/op_median_bones.hpp
+END
+newarp_DenseGenMatProd_bones.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/newarp_DenseGenMatProd_bones.hpp
+END
+operator_ostream.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/zhangzhipeng/!svn/ver/7/simrank/armadillo/include/armadillo_bits/operator_ostream.hpp
+END
